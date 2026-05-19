@@ -21,10 +21,12 @@ obtained.
 
 ## CIRCUIT DIAGRAM:
 
+<img width="940" height="355" alt="image" src="https://github.com/user-attachments/assets/3485db54-93e5-4149-b6c1-1c75fd256be1" />
 
 
 ## OUTPUT GRAPH:
 
+<img width="933" height="544" alt="image" src="https://github.com/user-attachments/assets/d3594594-34d5-452d-8c53-e08163bec0e7" />
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and Instrumentation amplifier circuit is simulated. 
